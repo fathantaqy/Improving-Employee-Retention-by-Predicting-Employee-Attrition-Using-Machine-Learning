@@ -1,0 +1,2 @@
+# Improving-Employee-Retention-by-Predicting-Employee-Attrition-Using-Machine-Learning
+understand how to retain workers in the current business, which might lead to higher expenditures for hiring new staff and paying for their training. By creating programs that are pertinent to employee difficulties, the company may rapidly overcome the major causes that lead employees to not feel comfortable in the workplace.
